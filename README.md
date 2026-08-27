@@ -3,6 +3,10 @@ Repositório com os projetos da matéria "Desenvolvimento de Interfaces Web" da 
 
 ## Nome: Natanael Leandro Alves Barbosa (928167)
 
-#### 1. Print Currículo:
-  ![Print Curriculo](./assets/print_curriculo.png)
+#### 2. Print Hello world + devtools:
+  ![Print Hello World](./images/print_hello_world.png)
+  ![Print Devtools](./images/print_devtools.png)
+
+#### 2. Print Currículo:
+  ![Print Curriculo](./images/print_curriculo.png)
 
