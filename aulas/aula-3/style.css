@@ -1,0 +1,80 @@
+@import url(reset.css);
+
+header {
+    padding: 16px;
+    border-bottom: 2px solid lightgray;
+}
+
+header img {
+    vertical-align: top;
+    height: 150px;
+    width: 250px;
+}
+
+nav {
+    text-align: right;
+    vertical-align: top;
+    display: inline-block;
+    width: 85%;
+}
+
+nav ul {
+    display: inline-block;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: lightblue;
+    padding: 4px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 32px;
+    color: black;
+}
+
+nav ul li:hover {
+    background-color: blue;
+}
+
+nav ul li a:hover {
+    color: white;
+}
+
+main {
+    display: inline-block;
+    width: calc(70% - 32px);
+    padding: 16px;
+    vertical-align: top;
+    background-color: lightyellow;
+}
+
+main section {
+    margin-bottom: 32px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+main section img {
+    vertical-align: top;
+    width: calc(25% - 16px);
+}
+
+main section div {
+    vertical-align: top;
+    display: inline-block;
+    width: calc(75% - 16px);
+}
+
+aside {
+    padding: 16px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightgray;
+    width: calc(30% - 36px);
+}
